@@ -1,4 +1,4 @@
-<h1 align="center"><br><img src="mobile/src/assets/logo.svg" alt="Aircnc"><br><br>Aircnc - Air Code and Coffee💻☕️</h1>
+<h1 align="center"><br><img src="https://i.imgur.com/YTnQsCI.png" alt="Aircnc"><br><br>Aircnc - Air Code and Coffee💻☕️</h1>
 
 Projeto desenvolvido durante a semana OmniStack da [Rocketseat](https://rocketseat.com.br/week-9/aulas). Aplicação fullstack que permite realizar a reserva de Spots para empresas e desenvolvedores, em tempo real utilizando **socket.io**.
 
@@ -44,3 +44,6 @@ yarn start
 Ao abrir uma aba em seu navegador do **Expo DevTools** com o **QRCode**, baixe o aplicativo do **Expo** em sua [play store](https://play.google.com/store/apps/details?id=host.exp.exponent) e faça o Scan do QRCode em seu celular.
 
 - No arquivo `config/localhost` incluir em `LOCALHOST` a mesma configuração do Backend.
+
+# License
+[MIT License](https://github.com/fogeid/ToChat/blob/master/LICENSE)

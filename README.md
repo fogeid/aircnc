@@ -6,7 +6,7 @@ Projeto desenvolvido durante a semana OmniStack da [Rocketseat](https://rocketse
 ### Backend/API
 Clone este repositório e instale as dependências dentro da pasta `aircnc/backend`
 ```sh
-git clone https://github.com/robertomendoncaa/aircnc.git
+git clone https://github.com/fogeid/aircnc.git
 cd aircnc/backend
 yarn
 # ou

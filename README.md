@@ -1,4 +1,4 @@
-<h1 align="center"><br><img src="https://i.imgur.com/YTnQsCI.png" alt="Aircnc"><br><br>Aircnc - Air Code and Coffee💻☕️</h1>
+<h1 align="center"><br><img src="https://i.imgur.com/YTnQsCI.png" alt="Aircnc"><br><br>AirCNC - Air Code and Coffee (Theme Dracula)💻☕️</h1>
 
 Projeto desenvolvido durante a semana OmniStack da [Rocketseat](https://rocketseat.com.br/week-9/aulas). Aplicação fullstack que permite realizar a reserva de Spots para empresas e desenvolvedores, em tempo real utilizando **socket.io**.
 
